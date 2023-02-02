@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author thor
+ *
+ */
+module SetInterface {
+}
